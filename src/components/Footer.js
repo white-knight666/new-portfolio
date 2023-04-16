@@ -20,9 +20,9 @@ export const Footer = () => {
           </Col>
           <Col size={12} sm={6} className="text-center text-sm-end container2">
             <div className="social-icon">
-              <a href="#"><img src={navIcon1} alt="Icon" /></a>
-              <a href="#"><img src={navIcon2} alt="Icon" /></a>
-              <a href="#"><img src={navIcon3} alt="Icon" /></a>
+              <a href="https://www.linkedin.com/in/mohamed-rajab-301581272/"><img src={navIcon1} alt="Icon" /></a>
+              <a href="tel:+31685085291"><img src={navIcon2} alt="Icon" /></a>
+              <a href="https://github.com/white-knight666"><img src={navIcon3} alt="Icon" /></a>
             </div>
             
           </Col>
